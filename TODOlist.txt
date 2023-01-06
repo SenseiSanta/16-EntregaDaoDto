@@ -1,0 +1,3 @@
+Realizar controladores y servicios de las rutas de productos
+Agregar conexiones a las base de datos (modelo de MONGODB)
+Hacer DAO Sqlite
